@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@include fill-parent
+]]></content>
+  <tabTrigger>fill</tabTrigger>
+  <scope>source.sass, source.scss</scope>
+</snippet>

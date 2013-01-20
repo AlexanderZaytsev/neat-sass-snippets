@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@include outer-container
+]]></content>
+  <tabTrigger>outer</tabTrigger>
+  <scope>source.sass, source.scss</scope>
+</snippet>
